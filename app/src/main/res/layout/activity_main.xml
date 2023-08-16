@@ -204,7 +204,6 @@
                     android:layout_marginLeft="@dimen/padding_x_large"
                     android:layout_marginTop="50dp"
                     android:layout_marginRight="@dimen/padding_x_large"
-                    android:marginBottom="@dimen/padding_x_large"
                     android:elevation="@dimen/padding_x_small"
                     app:cardCornerRadius="@dimen/padding_large"
                     app:cardMaxElevation="@dimen/padding_x_small"

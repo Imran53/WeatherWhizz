@@ -3,6 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Tarek Khan/AndroidStudioProjects/WeatherWhiz2/app/src/main/res/drawable/drizzle_bg.xml" value="0.118" />
+        <entry key="..\:/Users/Tarek Khan/AndroidStudioProjects/WeatherWhiz2/app/src/main/res/drawable/rainy_bg.xml" value="0.118" />
+        <entry key="..\:/Users/Tarek Khan/AndroidStudioProjects/WeatherWhiz2/app/src/main/res/drawable/snow_bg.xml" value="0.118" />
+        <entry key="..\:/Users/Tarek Khan/AndroidStudioProjects/WeatherWhiz2/app/src/main/res/drawable/thunderstrom_bg.xml" value="0.118" />
         <entry key="..\:/Users/Tarek Khan/AndroidStudioProjects/WeatherWhiz2/app/src/main/res/layout/activity_main.xml" value="0.176" />
       </map>
     </option>
